@@ -5,8 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2850abfa-513e-430a-afe2-b8b745b162e5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/CaseConverter/CaseConversion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GoFish/Cards/Card.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GoFish/Cards/Deck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GoFish/Game/GameManagement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GoFish/Game/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GoFish/Players/AI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GoFish/Players/Playable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GoFish/Players/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GoFish/cardData.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Project0/Test Plan Documentation.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaActivities.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaActivities.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +32,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -37,12 +49,55 @@
     "Application.CaseConversion.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.TicTacToe.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true"
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/imran/Documents/GitHub/240930-JWA/Foundation Project",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "configurable.group.tools"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GoFish.Game.Main" />
+      <module name="JavaActivities" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="GoFish.Game.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TicTacToe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TicTacToe.TicTacToe" />
+      <module name="JavaActivities" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TicTacToe.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.TicTacToe" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -60,5 +115,15 @@
       <updated>1727808637933</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.util.ConcurrentModificationException" package="java.util" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
